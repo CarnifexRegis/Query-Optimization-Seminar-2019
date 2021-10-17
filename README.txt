@@ -1,5 +1,5 @@
+me working too much with C for the first time the previous semster :S
 to compile the test version type: make erm
-
 
 erm.cpp contains all GOO Functions
 //goo.h all necessary structs
